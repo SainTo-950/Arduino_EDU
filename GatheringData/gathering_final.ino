@@ -5,8 +5,8 @@ SoftwareSerial Serial1(6, 7); // TX, RX
 
 // ssid = 와이파이 이름
 // pass = 와이파이 비밀번호
-const char ssid[] = "SainTo_HP";
-const char pass[] = "@Tp1dls0Xh4$";
+const char ssid[] = "";
+const char pass[] = "";
 
 int tempArray[2];
 bool tempDetected = false;
