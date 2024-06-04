@@ -1,5 +1,5 @@
 // 서버 Host 주소를 입력합니다. (혹은 IP)
-const char* server = "192.168.178.92";
+const char* server = "";
 
 // Client 객체 선언
 WiFiClient client;
